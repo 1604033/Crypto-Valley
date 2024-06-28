@@ -1,0 +1,7615 @@
+fileFormatVersion: 2
+guid: 6485f622c121ee0449976eb2ac40cbbb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46930be8271a89747b6f377a9b0f19d3
+      internalID: 732690172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b913ced9205cf419232ff19593aedb
+      internalID: 1052791210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640857f63c6b0dc4ab609b0eb62eba36
+      internalID: 166963851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7242dfdbd89824cac525642d51c61a
+      internalID: -36273027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643dc411318d2024eb4131c3d81a9e93
+      internalID: -1505806765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e4db201a2102f4bac1e710c6cc28b0
+      internalID: 485783606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d855b94b5445104eaab18503e326daf
+      internalID: -1312046621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ae824e97c7fb4a87276ae1d0ef509
+      internalID: -1088763366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5efcf07b77724885893a8e87ead73
+      internalID: 1561433830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea2075e70e3c274b86e7658e4e3d290
+      internalID: 761803387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e450982d5a3045ae4e29bf6533c58
+      internalID: -1358733151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b0b80ccd7e8f4f94a919334e90fea
+      internalID: 1119474414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84a5163750c584592862d0edd2e07c
+      internalID: 370590820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa566f0978c6e468aa70e5d15883ee
+      internalID: -1421524877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273a68ea7a64e143b6fab328fad353b
+      internalID: 638482209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33a00d8b86cc54b9926f5f08d3d641
+      internalID: 587318405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae8d4099bf75944a01f4b621a7b67d
+      internalID: -1518119076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7059c9b686b14296a1423039b6f20
+      internalID: 114011711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071a27090456634b88be981cd1183a3
+      internalID: -2095765555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06680cc7ba8641b49bfd9fbdfa3c10eb
+      internalID: -2040006320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe97ed0419039c4da969d2c3d1f9b3f
+      internalID: 1614652824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 496
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772e2413c8d3344f96657efabce77b2
+      internalID: -1311697648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62be178a69f494f8156b3bd37567e3
+      internalID: 112394699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8ee08a8a6ee44f8369e065f82ca0e
+      internalID: -13420958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d06f364b58e804fb3603a6489155d9
+      internalID: 629289328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df75233dd8986f41a56a6ae9089386d
+      internalID: -2042722219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13650bff843407a4ca525df813686af5
+      internalID: 689292160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35565d2d4d7974fb6c63a64c150d04
+      internalID: 2027130422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b3a691e3733a4d90240c52ed04d4c
+      internalID: 241404129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd7586ebb5b2954ab035b008c6671be
+      internalID: -1701854294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf10e733baef34580910de3605bb7a
+      internalID: -1419449524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcd970b8eec1a45b2fbe93a0680655
+      internalID: -1186783408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d50452cd02aec40b0bd5c4cb900cf5
+      internalID: 1090816037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f91c29cdbc234183aebe90f951c93
+      internalID: 1482570773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a21aebb865aa2748a3c81cbd6b7a4e4
+      internalID: -461784827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ed55b1ac00e143a1296d8aa4c12b1
+      internalID: -1093936918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea2ccb938fb5f48b691249dc4c031c
+      internalID: 102560038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada942b28124434cb515d80e97c3a9d
+      internalID: 338981960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18cbc3580dff34dab809e805b9be22
+      internalID: -1529228149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4cc97daf6828488568943b4698d59
+      internalID: -2088081015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47bade09c313a149a441e9fd9d83b94
+      internalID: -867359706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfee9afd244e784c9338d3bfd62e3e9
+      internalID: -7316806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968cf63f0c57994a9aab200a4c0cb89
+      internalID: -1355626282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4c7f8e617f9e4cb5a4b87d632bc72
+      internalID: -2054981269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff0cd20e378924fbe7b409b981da49
+      internalID: -1117658766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92409134b8c3f4390b00fd554237d1
+      internalID: 1035919355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0591b50a64fb64bb7a79baaab49897
+      internalID: -1021199734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6b8b0297514a4e8e883403cd8437c
+      internalID: -781209300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d3cad7edcc0c4ebae4af3ac7e91b7
+      internalID: -583338400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110e30a5f91b3d44b53d7a0c1260aa4
+      internalID: 2024651885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f5d0662c5d85d4181d8a6ff9620c17
+      internalID: -1895724364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c05199a35682e4ab5a1f038cc8a52c
+      internalID: -1821269479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4740566549dc044b818a7cacc4d6ec
+      internalID: -933400873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb140212cc82d74ba039e571aa6b809
+      internalID: 1202862991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b47189a7065691498d5e5abf862d377
+      internalID: 958760046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982572c22ba7e7418fecdcb4b244fc5
+      internalID: 1677287935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c681a6bbf43b42ba42cc4fa6c2e71
+      internalID: -460880368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4f73ff5e61ef4e9f09c45be5dd839
+      internalID: -2055408610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaec0b3483349540b0d783ed361554b
+      internalID: 2037148553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71077d4188d8bea429b45fb97ed3abe6
+      internalID: -166739922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e454fac89a12f4b842cec7b58eceaa
+      internalID: 2049721286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8858751880c545afb8e3dabe82488
+      internalID: -472210784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa2000807c53d40992dd8dbcc72cb5
+      internalID: -1443797701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3865a046730559469898d14e332114c
+      internalID: -1124543354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809368bc44c01884180c3791ad06e9dd
+      internalID: 660022391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5c52fc600d8c479e967060aaabcb0
+      internalID: 1573800599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2d9f4e7c8a884e92ff14b8dad622d
+      internalID: -1948473903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48192c6e045ca44aec5d90a039efca
+      internalID: -309393883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6c806f9db8fa4dabc26ca9adfad9b
+      internalID: -1998844576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df3ba4d4c0c0849a4d3d64a7ff5008
+      internalID: -2103383734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7f2ae237b4a246841299ae5aa62dd
+      internalID: 360843822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173021b2763f6743b760c5a38eb30da
+      internalID: 225375024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073d7c051baae04fb0a15f375786339
+      internalID: -861403389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a808f2a330f0b44390514d72d76a21b
+      internalID: -1841071868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3df5339e1c9364ebac8ef8ba566c76
+      internalID: -501802773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2ed58c26f16ea4e941c05d13556b01
+      internalID: 311015130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec35ef6aeebe949921bde58d2d3bf3
+      internalID: -147091247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0da600c7afcea4f9c1a952c4427ad5
+      internalID: -119792501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef0f0ef1ebddb440aa876796922743d
+      internalID: -1461120747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b1cecb86e3c74a934a2136bdeb1e3
+      internalID: -1210326684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9105b5da849f34684e10136e5075d8
+      internalID: 582108054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c254d57ef68b041827d2eea9cc21ed
+      internalID: 1709245761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb17b39a12f6c242b492460aa765a35
+      internalID: 1124065466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868bd5c04ec01d34d8aa9b656b282ac9
+      internalID: 1303472715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3274143b3edf42a614e92f81cb216
+      internalID: 614412595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753cae0e9d1290845b8e934653932b01
+      internalID: -1081141370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32dfb00221705f49a7cdcf2b50a68ed
+      internalID: 1264485672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4990e2780fae2468ad20f3bb5bc492
+      internalID: 959858825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ea8d0d5ad92f4a8a5ac49ecc72e17
+      internalID: 132667004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4d46c6963b1741920b29a1625c446
+      internalID: -1801337192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5f73f7975df0458de27fd964fda37
+      internalID: -1704453032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a68887b1c43146bd000f5cf0bade7
+      internalID: -1826530718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f27729fa805d644bbece20018f6556a
+      internalID: -1105298251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63d3b5e38af444abd95114df1d2e9b
+      internalID: 1863310166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bfb786a47845e40a69e63b76b6f65a
+      internalID: -134096084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059bc4a917706344f863975694ab6be0
+      internalID: -1326968269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232b22532c377f4e9fd6832a7eaa063
+      internalID: 548081893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed55cd6de8500347886e5c4011a959d
+      internalID: -823907158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d86b6d6d5d5440aea1a1a24104f9e
+      internalID: -996148283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4572d410a6d2945a321303297d66db
+      internalID: 1356288482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3106d29d0096b4898c2bb4b6befcb1
+      internalID: 1862450685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8f8f67e4d93b45b90dca3ad3b0284
+      internalID: 1298579710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85db79d46028041870f82579f7561e
+      internalID: -1216652372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c172d69b82ed31444b499c80a9634525
+      internalID: 1449823322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac6a7d271198e498693c68e651e8e0
+      internalID: 1354576321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdc64e76d6a0847a0d19258b6aec48
+      internalID: -1105428668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c05f4fdcfa6d488efabead7707271
+      internalID: 1514755000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76daec27e3e24439acd5e249f600f8
+      internalID: -1003260254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85719b082f13bf14a8a2d47c0938220d
+      internalID: -479172744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540eee1cc992fe408f5084c5400b51b
+      internalID: 88948412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab91143787139b499259c09f658e8cb
+      internalID: 2036757196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69785f0727628e14dbd23aea97797425
+      internalID: -1190445900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ca7f6300a13149a56be231775b45e
+      internalID: -1477494076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06a570bc1d636448f9b6a567c312e2
+      internalID: 1538148857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d883fa71ed7e05342a5150b6e52a0e3a
+      internalID: 2056882635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9691c23af6b247bcff5189ec3f7c7
+      internalID: 490911225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85d266a8cfb4e9419c5668094e0197f
+      internalID: -414299496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d30810d5acd34f8682d4558a3985d
+      internalID: 1195693807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0789ade03e4346ac131fba09bb8cc
+      internalID: -154165978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d98c13392b054880e57f6d7fc2caf
+      internalID: -525353009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e717ae002dcba4ebada6a45e652473
+      internalID: -1867857530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5324fe061dffe4a846e71317bde1e8
+      internalID: 510091425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ed1923ff0771478a496899d828015
+      internalID: 1662582370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e90160842d19bb4a8e893d20ebf2116
+      internalID: 120830383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecfbc398e1b41c4c9e094a6b5cde700
+      internalID: -795922327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8015a04f9047459a8a73379485882
+      internalID: 1538406181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc384c16f423ae645a98684a9982bbea
+      internalID: 6338040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6557351ed05e54488f60f70aa665c8
+      internalID: 1190576347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357bbb8d601add24ba9659504a1fa7dd
+      internalID: -1484114566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a681ac777a737c4db047f87ed9b34da
+      internalID: 263260093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240636d5b0fd004cb11c55af131a342
+      internalID: -34892886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deccd1594932d445add16a4c319147c
+      internalID: -1841152465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dba5fc80dfe8a4caa57ef268470f17
+      internalID: 1977510200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b34a09b586054bb5c0a426cfe567d
+      internalID: -1781512843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0223dbd21b9834883884352b210763
+      internalID: -400352543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e197057061b44ea00fc16d39ec5b7
+      internalID: 2043665415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e7179d3e8d574186ce3df805fc25f
+      internalID: -962628570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ecea936e8c205409034d67c4a86606
+      internalID: 1730681934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672bb5e416bf2346a1d039f7b3392ff
+      internalID: 505448891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ddc89b25b5ba246ad36f412f73b2bc
+      internalID: -1379053914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37124f4ba7af6f14fad4ebe4b2b916f8
+      internalID: 784635397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289b08fb3969da488b555d9d84fc1fc
+      internalID: -1233013532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336552c78d64af4895332793be84d2c
+      internalID: 1171069385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388bdbe605d22f4fa61bcd4498c6a98
+      internalID: 14922333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b792174caa12458afef4a1f28e41d
+      internalID: -1987460070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972de0647e380346b12a79c603d0248
+      internalID: 1024043236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5fc899a3dce9044a8ae8dc25e350a7
+      internalID: 687391740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236bdc5a7e990747b4665bce27a2cdd
+      internalID: -655564639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35724bdf09d83454dbb003c570d59ad8
+      internalID: 862612745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fcf1b0cb42696429b3e5725a8d2593
+      internalID: -253866899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4017bb546ce2cd4f8bfcebfc736d22e
+      internalID: 637488604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5fab83e96b00b47bd7470529864c4c
+      internalID: -136480079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767c180afa352f4d989ba2dd2050f40
+      internalID: -1748987961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47759363b84068a49a5fb69dd2365a1b
+      internalID: -210827729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6324f5c48e25524782c9424587488bf
+      internalID: 979214988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65a267a0280e14ca2065f00f70f007
+      internalID: -1845197857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ee6f505a6dca4691b18978cf709c7
+      internalID: 1972520359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d44252d93c5b4f953c0e723abcb17
+      internalID: -1204534789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6fb56be74f844788d0f3fe55d50eb
+      internalID: -2142405301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf126306b7bb64397f44e32ee997f6
+      internalID: -621834952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff7675e0237ff40ad6a8c44eee24a5
+      internalID: -1396728907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0b0d667344944aa23888f1945bac6
+      internalID: 335944287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d70f20054041438f2d35ce548a3a9
+      internalID: 419304302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0406d9702246543b3b5fe71799fa9f
+      internalID: 1745766567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff37b1971b77b947b7fb7bde8e310b3
+      internalID: -1300966071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ae13fb2a474242beb6f5b104c6b4f
+      internalID: -738121947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce2fb49db597e43869c13e15be986e
+      internalID: 103061196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7afe5dd38c674e8008ca7116f9455
+      internalID: 2021712208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94999cad924881046b90eaf8459b1a9a
+      internalID: 1293969222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bac079a96e464cbc0423a05ea3cab
+      internalID: 1381418620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf92347cf50d946a7f50f28f4a2e5b
+      internalID: -233279739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc92850010c07f4ea40c41285546f16
+      internalID: -420196206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6f9f829c284b47b0debe38f237293
+      internalID: 501508363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201824f2030dfeb4eb6bd8a0ffa45b55
+      internalID: 1368913427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19981a6f046454f4783b649fe2b66649
+      internalID: -828152376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49761725030bc9419139d571e751c1d
+      internalID: 1708341359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1b64d4e56deb4283b38f725cb3a67
+      internalID: 327494910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eacc8e330768347837304fca83e70a
+      internalID: -16596246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6706d77c7dce41b7d962327c39089
+      internalID: 1864836120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208abf8c7022c404eb7b3bb303f51b84
+      internalID: 1587458859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e82a1d7d7ce024091336b05a1002fc
+      internalID: -585482755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfcc282276c2b9469afb4ce263d2996
+      internalID: 805762233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47b8d0c00c5264cb72544d14377a94
+      internalID: 923403539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a351c3dbd369d604f8149935eb99f8ab
+      internalID: 1852288162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1fd49dfffd9eb44bf04c6de004adf2
+      internalID: -19856779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f058b7960893e41b9fd23f5a813a40
+      internalID: -982128319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d720c4e72f5d834188c2c1901181012
+      internalID: 1995834253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e2603ee0bc1142ae11b37a782e747
+      internalID: 624900327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db932f7c6e17e4595fe8b09853c2d1
+      internalID: 1916420888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f830ae6560394c87af709b6e48689
+      internalID: -979326556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da8a307006fad419799e15087669ab
+      internalID: 1278789042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8942fa76164664dad8158694657584
+      internalID: 421165336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1495c2dc933c5564688b31162111cae9
+      internalID: 1373283176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b89aace951564d9881fdfa5dfba0b
+      internalID: -1874628211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b76bddfa82dac42b7d289cb8780cdb
+      internalID: -973118113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1653e143783e8e4485d3d032589df90
+      internalID: -1907255140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cda0e093fe75a46a929e4c94c56252
+      internalID: 437294258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2efbb026e32b0489200bb7543bb725
+      internalID: 564758193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7898abc011deba49a5ab83a90bbab7e
+      internalID: -730897182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3327850fcdab4a74cb36b206ba76cc6a
+      internalID: 544787452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15707dba1bb96746a4931f4b361066f
+      internalID: 515926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2554f4197f9a4681dc879da29ead8
+      internalID: -1976152381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56ae87a2465e24c91649d329c489cd
+      internalID: 448256725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed412c52ac6487409b20b097ff313ae
+      internalID: -772218202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9d0f0594651245994b5f28fb6f8c0
+      internalID: 1357926561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b1c3a416cb43498f72167a8572380
+      internalID: -216146447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb236f997a1e948868995059eee7d5
+      internalID: 1006892532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549b61c5319dca40827d7a6afb8394c
+      internalID: -894427123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e55ab811e894746bca7928c78c6c77
+      internalID: -291021831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc96178c05495184fa3719a64304131e
+      internalID: -572212724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b055fd3fcad2d409f872a3ada35515
+      internalID: 1942757289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc33b9d77ee4d5408c5c350aea6336f
+      internalID: 537315853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357162bb77afc64faed8cb30e9bd9a1
+      internalID: -2122579288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec9cc589ba7ed4ba1963a25e2a98f3
+      internalID: 2026708678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c4aa4118ac554b85daabff49eac29
+      internalID: -1289032289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ad2137409a38439fc20c36b5a14d0
+      internalID: -801765681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7eff55b13e2d4c8cab297dc259c40
+      internalID: 1952350898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8b268bc595e948871a368b78672fc
+      internalID: -1145310566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9e1ab44a592a84f8e53db320cdeb14
+      internalID: -527835988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9a97c6bdfe7149abe4daed56e5b13
+      internalID: 1035506663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a0c3fd530604479464e23634812e8
+      internalID: -680448500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d6b77128c366498d01aab5dbdf4c6
+      internalID: 2012255877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628817c8e382364eb4f2c37bfb32ff1
+      internalID: -1591696193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b96c8093c19d4280cd18dfc6c6f30
+      internalID: 1839941050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b634ce50bf4d46bcd386865e8b85a
+      internalID: 1797203709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c3131c8a5cd347bbd8f8369365409
+      internalID: 1419748546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae4ec5f7e8e1b74093fe35b258ad662
+      internalID: 2123739079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6fb24ab34fb3a4d86152f6293a5596
+      internalID: 1016355645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_228
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dde2bd5859b4140998cb11f5752bb0
+      internalID: 1922997302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_229
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67109fe5141d4447a863302d4a08ea5
+      internalID: 1265761485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e74d38c6a344c4d8fd8941b88a28ad
+      internalID: -549031284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716135569d2e6b44b4f49a3143a3953
+      internalID: -370226129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331fc0f82f093d4fadf187ff94be389
+      internalID: -844595659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_233
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684c66f86b911c4ebb5a27ebe11c515
+      internalID: 1403598995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7761b402bb5f5f4299f596ff7eb82e4
+      internalID: 1277022848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_235
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f714afb6f115c4dac68dc1ffe19426
+      internalID: -1290491673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449ef55c70a42e4cb896d2aed309296
+      internalID: -1867016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_237
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64742f191676da47922b1393109147f
+      internalID: -346083667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_238
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe168eb8e1a0a4eb53b8cca88ad371
+      internalID: 1459154399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_239
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a36c9a84fbc1498317b9e8e383269
+      internalID: -629412197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_240
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4a23eb5e40974b8caa8c03793ce34
+      internalID: -47604632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_241
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c873de5086b324493e16e6b45c7933
+      internalID: 877116628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_242
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac65dd34b3a16e4cb3fa899b27e8e0b
+      internalID: -1632818425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc00ba60bf0e44ba43297da70ace46
+      internalID: -702169934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_244
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce72df1a499954aafbec3ae3a17897
+      internalID: 1250718707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_245
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a486fb21907a42aeb2fcfa7ad9faf
+      internalID: -318768055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_246
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ea18a7980617142abe07f2e08eafad
+      internalID: 176785190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_247
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd49d5af7df8cc74c907da34c1dea7f5
+      internalID: -1414621512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_248
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1ebaf853efb24ea0b70aae960de68
+      internalID: -698859762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_249
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866ff969f851cc4a831f8d599259fdc
+      internalID: 2059134384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_250
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5e2773b992634f92e669da738ffbf
+      internalID: 1887124908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_251
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef602905824cea44cb13a497ab3d3565
+      internalID: 1163347960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_252
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d45b84cc81a594ca21ffd1de04b123
+      internalID: -1173842383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_253
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be63aa24c4aa4a4699709b072003777
+      internalID: -954219347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_254
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bead0350f4073d48b75ecb988d3a5ce
+      internalID: -441312555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_255
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe64e25ee05cbb4989230f5d7646871
+      internalID: 2114584193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_256
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c6f3c48ae66114ca121c6c5b2e3186
+      internalID: -1421639843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_257
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 301
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152e8f11443694499c1bc26f093d343
+      internalID: 1017633539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_258
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9190b5015a015024188d680e83addd60
+      internalID: 1922010965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_259
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 304
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e1e2f719e73d4c9a0723e7f1de46e
+      internalID: 637990309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_260
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b11c8f7b8333546a0da284a4c558c9
+      internalID: -713063953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_261
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 304
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6eca5fe20270e4ca84b61e26bfbc59
+      internalID: 1087533896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_262
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fde9a95714ead44a3b58dbd53e6eb7
+      internalID: -728243825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_263
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 304
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367556e4ad604584097e1a1cc24c05a7
+      internalID: -1336333511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02873370afd97734a9f6610257e6250a
+      internalID: -1534279139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_265
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a967613fa5cb64599c7304de6ace46
+      internalID: 76493177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_266
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2dc7c688107643b69b91d7d8fa80d
+      internalID: 1155894621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_267
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb4c8aef681f542895f0ded31aa32e
+      internalID: 972703033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_268
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d050d5b21e94478e45118ab15bef6
+      internalID: -1279731357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_269
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0910b3ad41bf4285bb05bd7cd7da0
+      internalID: 1076970543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_270
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c00918b2804843b304b3cf7d52aeb
+      internalID: -11686129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_271
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a16cbeab1579849ab6e14ead9794be
+      internalID: 164492796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_272
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81793c074af174a8488ba5c05ec8b8
+      internalID: -643084659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_273
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0541be777f8c114a9367f3e2f22a748
+      internalID: 1114684116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_274
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411999d9f0f4249479861706aed01419
+      internalID: 160867922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_275
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca062bd7483a464d9a79eb0d9b4ae3e
+      internalID: -1662023282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_276
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe0ab49d13b7f4c98fd3b38f84cf4e
+      internalID: -1948906574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_277
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291ff2b8e4c4274ba7a0f0e495ec89f
+      internalID: 1408207215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_278
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420b9d41edcf2847979b26cabced5e2
+      internalID: 1516133595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_279
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06dafcef5009dd47a7f1ddaa9f4b664
+      internalID: -333154020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_280
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c98685842bb014ea1d990634462361
+      internalID: 639846818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_281
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850d7c1914f5fb4d9927e5cd9367fb3
+      internalID: 1639698737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_282
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cb352d72ebc84b989c5358ccee0fe
+      internalID: 1551091040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_283
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0c39ec173c4847863509cd135a139
+      internalID: -1501103289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680acbf01354774a924baa06ea4a4b0
+      internalID: -1417238449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_285
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed3fc4dcdd4ab4ca71e39648126e9d
+      internalID: 1781167016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_286
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4b970ef947794ead6a41c45095900
+      internalID: -198102612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_287
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3890e15e0102540ae3c344126eda45
+      internalID: 1639138472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_288
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ee8be7924b804bb2fabdb6aae9149
+      internalID: 790214650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_289
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7cd8928afa70441afed393def51df5
+      internalID: -270355742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_290
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6cacbb65ea4e47af2b7434098d092
+      internalID: -225757306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_291
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb07d6c6a25af4480c0e324c368157
+      internalID: -2017563570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_292
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4c885c40f01c44c86a7a0d321a156f
+      internalID: -861609809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_293
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6c5a51ece6b8429e27afc45bf1c6c
+      internalID: -1613546368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_294
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b904ce536d1747b57de9a63ac57c8
+      internalID: -1767259943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_295
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab33105efe67f1409563f44a8d6648c
+      internalID: 1033912520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_296
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887fa4ba1cc9c0408377ebe87a27e70
+      internalID: 1841968908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63461efe06ce91a41ab1fa3c53591b71
+      internalID: 510371598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_298
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c5dbb1f56bd44cb4b016acbf18ee7
+      internalID: 1748027517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_299
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c557584f6522bc40a2ceab6884e201b
+      internalID: -1766128678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_300
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8c72c2cd916a44be7cf273bcb4dd4
+      internalID: -1017603382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_301
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751021ce724760459e85dfdf2f51aec
+      internalID: 1987642671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_302
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172b6c955428f34993d5ffa8f68d1a0
+      internalID: 1186902220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_303
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d2780e8c11b4478f257b11fbf59c2
+      internalID: 1828989812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_304
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ee7dcb8b955543a7bfb954b751c84
+      internalID: 129267030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_305
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e246421e0157e40bb6541a8998929f
+      internalID: 370232454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_306
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626b28f59f9aac44965b8acc6b63afe
+      internalID: 1437696628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_307
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a259d5c47a315408e2784e3ceb7287
+      internalID: -63103863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_308
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652103f4717c73b4f9c310c2bbfd4405
+      internalID: -318220519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_309
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e8f4ae5431114e82bc304cb4a138f
+      internalID: -1998508434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_310
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd1372d79a70c42a11e1c869222100
+      internalID: -1948593396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_311
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d28ed67fb130d84e9a4331e2497569d
+      internalID: -39248017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_312
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc9d74678ae1d4e8b5ef0955a8c6b6
+      internalID: -1160246778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_313
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151089fcc9b17d94c8cbe89852ccb74a
+      internalID: 1927067560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_314
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0dfdff4a1801843b8dc5223def5b4d
+      internalID: -394402608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_315
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2d6fb36bc33e4c9cd56ad2199b46d
+      internalID: 1315014544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_316
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4bd36c530214489c31ee7a9168430
+      internalID: 2020863216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_317
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a352e70248a59a4a803d3fb391d0a2e
+      internalID: -1923661831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_318
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4c840d10fe0146a0edf7d6dd735f9
+      internalID: 2002124675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_319
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6fff9663a716c41b63bbf7547894e5
+      internalID: -1415308431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_320
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123c2e9b5eda9a4dbbaba338490e076
+      internalID: -2084820682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_321
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487529b544240054ba53a2802e2ea13e
+      internalID: -1017650499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_322
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa15c5b7cd17b24183f4dd98bd83b45
+      internalID: -1030567935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_323
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813afd1265eec6a4dbf0a16ec4037227
+      internalID: -1729355293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_324
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b79bf9209ffcd45b1c41e84a56c51c
+      internalID: 1827912913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_325
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff42488d333a2546847a5a710c15be8
+      internalID: -641944794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_326
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d34f6297614be478c051e3582925b3
+      internalID: -260647338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_327
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620254b2e0fefe4fafac07f73bf0eea
+      internalID: 91471238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_328
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d43908aaaa4e429ad729b8ff6d290
+      internalID: -705919918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_329
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b7752b253554489c661a5511138f7
+      internalID: 490508647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_330
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfc223899f14846854281e5b1c156f
+      internalID: -907068883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_331
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a203596ff1cc4bb86be53fd3f0ae1
+      internalID: 1864411965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_332
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbaf480b74260340831bca514ca4d1b
+      internalID: 1999828016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_333
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5130f6d923ef57489a5df42c628ba59
+      internalID: -1321081897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_334
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068b906133069e448cfb42289bf102b
+      internalID: 833861963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_335
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62d95decb2ea448a3c75538956947e
+      internalID: 1175680442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_336
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37828e4225241784789ce702797ad4fe
+      internalID: -1262785255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_337
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16808a683596637439918830382c38a8
+      internalID: 1260142642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_338
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de1cb24fde94d47918725f5410e30b
+      internalID: 1039054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meadows Tile Set Sprite Sheet_339
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db654d3d82008049b0f1820be6b31c2
+      internalID: 1900566723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Meadows Tile Set Sprite Sheet_0: 732690172
+      Meadows Tile Set Sprite Sheet_1: 1052791210
+      Meadows Tile Set Sprite Sheet_10: -1358733151
+      Meadows Tile Set Sprite Sheet_100: 1862450685
+      Meadows Tile Set Sprite Sheet_101: 1298579710
+      Meadows Tile Set Sprite Sheet_102: -1216652372
+      Meadows Tile Set Sprite Sheet_103: 1449823322
+      Meadows Tile Set Sprite Sheet_104: 1354576321
+      Meadows Tile Set Sprite Sheet_105: -1105428668
+      Meadows Tile Set Sprite Sheet_106: 1514755000
+      Meadows Tile Set Sprite Sheet_107: -1003260254
+      Meadows Tile Set Sprite Sheet_108: -479172744
+      Meadows Tile Set Sprite Sheet_109: 88948412
+      Meadows Tile Set Sprite Sheet_11: 1119474414
+      Meadows Tile Set Sprite Sheet_110: 2036757196
+      Meadows Tile Set Sprite Sheet_111: -1190445900
+      Meadows Tile Set Sprite Sheet_112: -1477494076
+      Meadows Tile Set Sprite Sheet_113: 1538148857
+      Meadows Tile Set Sprite Sheet_114: 2056882635
+      Meadows Tile Set Sprite Sheet_115: 490911225
+      Meadows Tile Set Sprite Sheet_116: -414299496
+      Meadows Tile Set Sprite Sheet_117: 1195693807
+      Meadows Tile Set Sprite Sheet_118: -154165978
+      Meadows Tile Set Sprite Sheet_119: -525353009
+      Meadows Tile Set Sprite Sheet_12: 370590820
+      Meadows Tile Set Sprite Sheet_120: -1867857530
+      Meadows Tile Set Sprite Sheet_121: 510091425
+      Meadows Tile Set Sprite Sheet_122: 1662582370
+      Meadows Tile Set Sprite Sheet_123: 120830383
+      Meadows Tile Set Sprite Sheet_124: -795922327
+      Meadows Tile Set Sprite Sheet_125: 1538406181
+      Meadows Tile Set Sprite Sheet_126: 6338040
+      Meadows Tile Set Sprite Sheet_127: 1190576347
+      Meadows Tile Set Sprite Sheet_128: -1484114566
+      Meadows Tile Set Sprite Sheet_129: 263260093
+      Meadows Tile Set Sprite Sheet_13: -1421524877
+      Meadows Tile Set Sprite Sheet_130: -34892886
+      Meadows Tile Set Sprite Sheet_131: -1841152465
+      Meadows Tile Set Sprite Sheet_132: 1977510200
+      Meadows Tile Set Sprite Sheet_133: -1781512843
+      Meadows Tile Set Sprite Sheet_134: -400352543
+      Meadows Tile Set Sprite Sheet_135: 2043665415
+      Meadows Tile Set Sprite Sheet_136: -962628570
+      Meadows Tile Set Sprite Sheet_137: 1730681934
+      Meadows Tile Set Sprite Sheet_138: 505448891
+      Meadows Tile Set Sprite Sheet_139: -1379053914
+      Meadows Tile Set Sprite Sheet_14: 638482209
+      Meadows Tile Set Sprite Sheet_140: 784635397
+      Meadows Tile Set Sprite Sheet_141: -1233013532
+      Meadows Tile Set Sprite Sheet_142: 1171069385
+      Meadows Tile Set Sprite Sheet_143: 14922333
+      Meadows Tile Set Sprite Sheet_144: -1987460070
+      Meadows Tile Set Sprite Sheet_145: 1024043236
+      Meadows Tile Set Sprite Sheet_146: 687391740
+      Meadows Tile Set Sprite Sheet_147: -655564639
+      Meadows Tile Set Sprite Sheet_148: 862612745
+      Meadows Tile Set Sprite Sheet_149: -253866899
+      Meadows Tile Set Sprite Sheet_15: 587318405
+      Meadows Tile Set Sprite Sheet_150: 637488604
+      Meadows Tile Set Sprite Sheet_151: -136480079
+      Meadows Tile Set Sprite Sheet_152: -1748987961
+      Meadows Tile Set Sprite Sheet_153: -210827729
+      Meadows Tile Set Sprite Sheet_154: 979214988
+      Meadows Tile Set Sprite Sheet_155: -1845197857
+      Meadows Tile Set Sprite Sheet_156: 1972520359
+      Meadows Tile Set Sprite Sheet_157: -1204534789
+      Meadows Tile Set Sprite Sheet_158: -2142405301
+      Meadows Tile Set Sprite Sheet_159: -621834952
+      Meadows Tile Set Sprite Sheet_16: -1518119076
+      Meadows Tile Set Sprite Sheet_160: -1396728907
+      Meadows Tile Set Sprite Sheet_161: 335944287
+      Meadows Tile Set Sprite Sheet_162: 419304302
+      Meadows Tile Set Sprite Sheet_163: 1745766567
+      Meadows Tile Set Sprite Sheet_164: -1300966071
+      Meadows Tile Set Sprite Sheet_165: -738121947
+      Meadows Tile Set Sprite Sheet_166: 103061196
+      Meadows Tile Set Sprite Sheet_167: 2021712208
+      Meadows Tile Set Sprite Sheet_168: 1293969222
+      Meadows Tile Set Sprite Sheet_169: 1381418620
+      Meadows Tile Set Sprite Sheet_17: 114011711
+      Meadows Tile Set Sprite Sheet_170: -233279739
+      Meadows Tile Set Sprite Sheet_171: -420196206
+      Meadows Tile Set Sprite Sheet_172: 501508363
+      Meadows Tile Set Sprite Sheet_173: 1368913427
+      Meadows Tile Set Sprite Sheet_174: -828152376
+      Meadows Tile Set Sprite Sheet_175: 1708341359
+      Meadows Tile Set Sprite Sheet_176: 327494910
+      Meadows Tile Set Sprite Sheet_177: -16596246
+      Meadows Tile Set Sprite Sheet_178: 1864836120
+      Meadows Tile Set Sprite Sheet_179: 1587458859
+      Meadows Tile Set Sprite Sheet_18: -2095765555
+      Meadows Tile Set Sprite Sheet_180: -585482755
+      Meadows Tile Set Sprite Sheet_181: 805762233
+      Meadows Tile Set Sprite Sheet_182: 923403539
+      Meadows Tile Set Sprite Sheet_183: 1852288162
+      Meadows Tile Set Sprite Sheet_184: -19856779
+      Meadows Tile Set Sprite Sheet_185: -982128319
+      Meadows Tile Set Sprite Sheet_186: 1995834253
+      Meadows Tile Set Sprite Sheet_187: 624900327
+      Meadows Tile Set Sprite Sheet_188: 1916420888
+      Meadows Tile Set Sprite Sheet_189: -979326556
+      Meadows Tile Set Sprite Sheet_19: -2040006320
+      Meadows Tile Set Sprite Sheet_190: 1278789042
+      Meadows Tile Set Sprite Sheet_191: 421165336
+      Meadows Tile Set Sprite Sheet_192: 1373283176
+      Meadows Tile Set Sprite Sheet_193: -1874628211
+      Meadows Tile Set Sprite Sheet_194: -973118113
+      Meadows Tile Set Sprite Sheet_195: -1907255140
+      Meadows Tile Set Sprite Sheet_196: 437294258
+      Meadows Tile Set Sprite Sheet_197: 564758193
+      Meadows Tile Set Sprite Sheet_198: -730897182
+      Meadows Tile Set Sprite Sheet_199: 544787452
+      Meadows Tile Set Sprite Sheet_2: 166963851
+      Meadows Tile Set Sprite Sheet_20: 1614652824
+      Meadows Tile Set Sprite Sheet_200: 515926080
+      Meadows Tile Set Sprite Sheet_201: -1976152381
+      Meadows Tile Set Sprite Sheet_202: 448256725
+      Meadows Tile Set Sprite Sheet_203: -772218202
+      Meadows Tile Set Sprite Sheet_204: 1357926561
+      Meadows Tile Set Sprite Sheet_205: -216146447
+      Meadows Tile Set Sprite Sheet_206: 1006892532
+      Meadows Tile Set Sprite Sheet_207: -894427123
+      Meadows Tile Set Sprite Sheet_208: -291021831
+      Meadows Tile Set Sprite Sheet_209: -572212724
+      Meadows Tile Set Sprite Sheet_21: -1311697648
+      Meadows Tile Set Sprite Sheet_210: 1942757289
+      Meadows Tile Set Sprite Sheet_211: 537315853
+      Meadows Tile Set Sprite Sheet_212: -2122579288
+      Meadows Tile Set Sprite Sheet_213: 2026708678
+      Meadows Tile Set Sprite Sheet_214: -1289032289
+      Meadows Tile Set Sprite Sheet_215: -801765681
+      Meadows Tile Set Sprite Sheet_216: 1952350898
+      Meadows Tile Set Sprite Sheet_217: -1145310566
+      Meadows Tile Set Sprite Sheet_218: -527835988
+      Meadows Tile Set Sprite Sheet_219: 1035506663
+      Meadows Tile Set Sprite Sheet_22: 112394699
+      Meadows Tile Set Sprite Sheet_220: -680448500
+      Meadows Tile Set Sprite Sheet_221: 2012255877
+      Meadows Tile Set Sprite Sheet_222: -1591696193
+      Meadows Tile Set Sprite Sheet_223: 1839941050
+      Meadows Tile Set Sprite Sheet_224: 1797203709
+      Meadows Tile Set Sprite Sheet_225: 1419748546
+      Meadows Tile Set Sprite Sheet_226: 2123739079
+      Meadows Tile Set Sprite Sheet_227: 1016355645
+      Meadows Tile Set Sprite Sheet_228: 1922997302
+      Meadows Tile Set Sprite Sheet_229: 1265761485
+      Meadows Tile Set Sprite Sheet_23: -13420958
+      Meadows Tile Set Sprite Sheet_230: -549031284
+      Meadows Tile Set Sprite Sheet_231: -370226129
+      Meadows Tile Set Sprite Sheet_232: -844595659
+      Meadows Tile Set Sprite Sheet_233: 1403598995
+      Meadows Tile Set Sprite Sheet_234: 1277022848
+      Meadows Tile Set Sprite Sheet_235: -1290491673
+      Meadows Tile Set Sprite Sheet_236: -1867016308
+      Meadows Tile Set Sprite Sheet_237: -346083667
+      Meadows Tile Set Sprite Sheet_238: 1459154399
+      Meadows Tile Set Sprite Sheet_239: -629412197
+      Meadows Tile Set Sprite Sheet_24: 629289328
+      Meadows Tile Set Sprite Sheet_240: -47604632
+      Meadows Tile Set Sprite Sheet_241: 877116628
+      Meadows Tile Set Sprite Sheet_242: -1632818425
+      Meadows Tile Set Sprite Sheet_243: -702169934
+      Meadows Tile Set Sprite Sheet_244: 1250718707
+      Meadows Tile Set Sprite Sheet_245: -318768055
+      Meadows Tile Set Sprite Sheet_246: 176785190
+      Meadows Tile Set Sprite Sheet_247: -1414621512
+      Meadows Tile Set Sprite Sheet_248: -698859762
+      Meadows Tile Set Sprite Sheet_249: 2059134384
+      Meadows Tile Set Sprite Sheet_25: -2042722219
+      Meadows Tile Set Sprite Sheet_250: 1887124908
+      Meadows Tile Set Sprite Sheet_251: 1163347960
+      Meadows Tile Set Sprite Sheet_252: -1173842383
+      Meadows Tile Set Sprite Sheet_253: -954219347
+      Meadows Tile Set Sprite Sheet_254: -441312555
+      Meadows Tile Set Sprite Sheet_255: 2114584193
+      Meadows Tile Set Sprite Sheet_256: -1421639843
+      Meadows Tile Set Sprite Sheet_257: 1017633539
+      Meadows Tile Set Sprite Sheet_258: 1922010965
+      Meadows Tile Set Sprite Sheet_259: 637990309
+      Meadows Tile Set Sprite Sheet_26: 689292160
+      Meadows Tile Set Sprite Sheet_260: -713063953
+      Meadows Tile Set Sprite Sheet_261: 1087533896
+      Meadows Tile Set Sprite Sheet_262: -728243825
+      Meadows Tile Set Sprite Sheet_263: -1336333511
+      Meadows Tile Set Sprite Sheet_264: -1534279139
+      Meadows Tile Set Sprite Sheet_265: 76493177
+      Meadows Tile Set Sprite Sheet_266: 1155894621
+      Meadows Tile Set Sprite Sheet_267: 972703033
+      Meadows Tile Set Sprite Sheet_268: -1279731357
+      Meadows Tile Set Sprite Sheet_269: 1076970543
+      Meadows Tile Set Sprite Sheet_27: 2027130422
+      Meadows Tile Set Sprite Sheet_270: -11686129
+      Meadows Tile Set Sprite Sheet_271: 164492796
+      Meadows Tile Set Sprite Sheet_272: -643084659
+      Meadows Tile Set Sprite Sheet_273: 1114684116
+      Meadows Tile Set Sprite Sheet_274: 160867922
+      Meadows Tile Set Sprite Sheet_275: -1662023282
+      Meadows Tile Set Sprite Sheet_276: -1948906574
+      Meadows Tile Set Sprite Sheet_277: 1408207215
+      Meadows Tile Set Sprite Sheet_278: 1516133595
+      Meadows Tile Set Sprite Sheet_279: -333154020
+      Meadows Tile Set Sprite Sheet_28: 241404129
+      Meadows Tile Set Sprite Sheet_280: 639846818
+      Meadows Tile Set Sprite Sheet_281: 1639698737
+      Meadows Tile Set Sprite Sheet_282: 1551091040
+      Meadows Tile Set Sprite Sheet_283: -1501103289
+      Meadows Tile Set Sprite Sheet_284: -1417238449
+      Meadows Tile Set Sprite Sheet_285: 1781167016
+      Meadows Tile Set Sprite Sheet_286: -198102612
+      Meadows Tile Set Sprite Sheet_287: 1639138472
+      Meadows Tile Set Sprite Sheet_288: 790214650
+      Meadows Tile Set Sprite Sheet_289: -270355742
+      Meadows Tile Set Sprite Sheet_29: -1701854294
+      Meadows Tile Set Sprite Sheet_290: -225757306
+      Meadows Tile Set Sprite Sheet_291: -2017563570
+      Meadows Tile Set Sprite Sheet_292: -861609809
+      Meadows Tile Set Sprite Sheet_293: -1613546368
+      Meadows Tile Set Sprite Sheet_294: -1767259943
+      Meadows Tile Set Sprite Sheet_295: 1033912520
+      Meadows Tile Set Sprite Sheet_296: 1841968908
+      Meadows Tile Set Sprite Sheet_297: 510371598
+      Meadows Tile Set Sprite Sheet_298: 1748027517
+      Meadows Tile Set Sprite Sheet_299: -1766128678
+      Meadows Tile Set Sprite Sheet_3: -36273027
+      Meadows Tile Set Sprite Sheet_30: -1419449524
+      Meadows Tile Set Sprite Sheet_300: -1017603382
+      Meadows Tile Set Sprite Sheet_301: 1987642671
+      Meadows Tile Set Sprite Sheet_302: 1186902220
+      Meadows Tile Set Sprite Sheet_303: 1828989812
+      Meadows Tile Set Sprite Sheet_304: 129267030
+      Meadows Tile Set Sprite Sheet_305: 370232454
+      Meadows Tile Set Sprite Sheet_306: 1437696628
+      Meadows Tile Set Sprite Sheet_307: -63103863
+      Meadows Tile Set Sprite Sheet_308: -318220519
+      Meadows Tile Set Sprite Sheet_309: -1998508434
+      Meadows Tile Set Sprite Sheet_31: -1186783408
+      Meadows Tile Set Sprite Sheet_310: -1948593396
+      Meadows Tile Set Sprite Sheet_311: -39248017
+      Meadows Tile Set Sprite Sheet_312: -1160246778
+      Meadows Tile Set Sprite Sheet_313: 1927067560
+      Meadows Tile Set Sprite Sheet_314: -394402608
+      Meadows Tile Set Sprite Sheet_315: 1315014544
+      Meadows Tile Set Sprite Sheet_316: 2020863216
+      Meadows Tile Set Sprite Sheet_317: -1923661831
+      Meadows Tile Set Sprite Sheet_318: 2002124675
+      Meadows Tile Set Sprite Sheet_319: -1415308431
+      Meadows Tile Set Sprite Sheet_32: 1090816037
+      Meadows Tile Set Sprite Sheet_320: -2084820682
+      Meadows Tile Set Sprite Sheet_321: -1017650499
+      Meadows Tile Set Sprite Sheet_322: -1030567935
+      Meadows Tile Set Sprite Sheet_323: -1729355293
+      Meadows Tile Set Sprite Sheet_324: 1827912913
+      Meadows Tile Set Sprite Sheet_325: -641944794
+      Meadows Tile Set Sprite Sheet_326: -260647338
+      Meadows Tile Set Sprite Sheet_327: 91471238
+      Meadows Tile Set Sprite Sheet_328: -705919918
+      Meadows Tile Set Sprite Sheet_329: 490508647
+      Meadows Tile Set Sprite Sheet_33: 1482570773
+      Meadows Tile Set Sprite Sheet_330: -907068883
+      Meadows Tile Set Sprite Sheet_331: 1864411965
+      Meadows Tile Set Sprite Sheet_332: 1999828016
+      Meadows Tile Set Sprite Sheet_333: -1321081897
+      Meadows Tile Set Sprite Sheet_334: 833861963
+      Meadows Tile Set Sprite Sheet_335: 1175680442
+      Meadows Tile Set Sprite Sheet_336: -1262785255
+      Meadows Tile Set Sprite Sheet_337: 1260142642
+      Meadows Tile Set Sprite Sheet_338: 1039054352
+      Meadows Tile Set Sprite Sheet_339: 1900566723
+      Meadows Tile Set Sprite Sheet_34: -461784827
+      Meadows Tile Set Sprite Sheet_35: -1093936918
+      Meadows Tile Set Sprite Sheet_36: 102560038
+      Meadows Tile Set Sprite Sheet_37: 338981960
+      Meadows Tile Set Sprite Sheet_38: -1529228149
+      Meadows Tile Set Sprite Sheet_39: -2088081015
+      Meadows Tile Set Sprite Sheet_4: -1505806765
+      Meadows Tile Set Sprite Sheet_40: -867359706
+      Meadows Tile Set Sprite Sheet_41: -7316806
+      Meadows Tile Set Sprite Sheet_42: -1355626282
+      Meadows Tile Set Sprite Sheet_43: -2054981269
+      Meadows Tile Set Sprite Sheet_44: -1117658766
+      Meadows Tile Set Sprite Sheet_45: 1035919355
+      Meadows Tile Set Sprite Sheet_46: -1021199734
+      Meadows Tile Set Sprite Sheet_47: -781209300
+      Meadows Tile Set Sprite Sheet_48: -583338400
+      Meadows Tile Set Sprite Sheet_49: 2024651885
+      Meadows Tile Set Sprite Sheet_5: 485783606
+      Meadows Tile Set Sprite Sheet_50: -1895724364
+      Meadows Tile Set Sprite Sheet_51: -1821269479
+      Meadows Tile Set Sprite Sheet_52: -933400873
+      Meadows Tile Set Sprite Sheet_53: 1202862991
+      Meadows Tile Set Sprite Sheet_54: 958760046
+      Meadows Tile Set Sprite Sheet_55: 1677287935
+      Meadows Tile Set Sprite Sheet_56: -460880368
+      Meadows Tile Set Sprite Sheet_57: -2055408610
+      Meadows Tile Set Sprite Sheet_58: 2037148553
+      Meadows Tile Set Sprite Sheet_59: -166739922
+      Meadows Tile Set Sprite Sheet_6: -1312046621
+      Meadows Tile Set Sprite Sheet_60: 2049721286
+      Meadows Tile Set Sprite Sheet_61: -472210784
+      Meadows Tile Set Sprite Sheet_62: -1443797701
+      Meadows Tile Set Sprite Sheet_63: -1124543354
+      Meadows Tile Set Sprite Sheet_64: 660022391
+      Meadows Tile Set Sprite Sheet_65: 1573800599
+      Meadows Tile Set Sprite Sheet_66: -1948473903
+      Meadows Tile Set Sprite Sheet_67: -309393883
+      Meadows Tile Set Sprite Sheet_68: -1998844576
+      Meadows Tile Set Sprite Sheet_69: -2103383734
+      Meadows Tile Set Sprite Sheet_7: -1088763366
+      Meadows Tile Set Sprite Sheet_70: 360843822
+      Meadows Tile Set Sprite Sheet_71: 225375024
+      Meadows Tile Set Sprite Sheet_72: -861403389
+      Meadows Tile Set Sprite Sheet_73: -1841071868
+      Meadows Tile Set Sprite Sheet_74: -501802773
+      Meadows Tile Set Sprite Sheet_75: 311015130
+      Meadows Tile Set Sprite Sheet_76: -147091247
+      Meadows Tile Set Sprite Sheet_77: -119792501
+      Meadows Tile Set Sprite Sheet_78: -1461120747
+      Meadows Tile Set Sprite Sheet_79: -1210326684
+      Meadows Tile Set Sprite Sheet_8: 1561433830
+      Meadows Tile Set Sprite Sheet_80: 582108054
+      Meadows Tile Set Sprite Sheet_81: 1709245761
+      Meadows Tile Set Sprite Sheet_82: 1124065466
+      Meadows Tile Set Sprite Sheet_83: 1303472715
+      Meadows Tile Set Sprite Sheet_84: 614412595
+      Meadows Tile Set Sprite Sheet_85: -1081141370
+      Meadows Tile Set Sprite Sheet_86: 1264485672
+      Meadows Tile Set Sprite Sheet_87: 959858825
+      Meadows Tile Set Sprite Sheet_88: 132667004
+      Meadows Tile Set Sprite Sheet_89: -1801337192
+      Meadows Tile Set Sprite Sheet_9: 761803387
+      Meadows Tile Set Sprite Sheet_90: -1704453032
+      Meadows Tile Set Sprite Sheet_91: -1826530718
+      Meadows Tile Set Sprite Sheet_92: -1105298251
+      Meadows Tile Set Sprite Sheet_93: 1863310166
+      Meadows Tile Set Sprite Sheet_94: -134096084
+      Meadows Tile Set Sprite Sheet_95: -1326968269
+      Meadows Tile Set Sprite Sheet_96: 548081893
+      Meadows Tile Set Sprite Sheet_97: -823907158
+      Meadows Tile Set Sprite Sheet_98: -996148283
+      Meadows Tile Set Sprite Sheet_99: 1356288482
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
