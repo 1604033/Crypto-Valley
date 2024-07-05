@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Market_place.unity
     guid: 6fd66225fc6ba2149876917fa7dd6ddb
+  - enabled: 1
+    path: Assets/Scenes/North world.unity
+    guid: 0c270ef2e05db5444841dd5d79a2fa27
+  - enabled: 1
+    path: Assets/Scenes/East world.unity
+    guid: 616341d9a357588488f297d0ee344a90
   m_configObjects: {}
